@@ -1,3 +1,3 @@
-# Database Schema
+## 📊 Entity Relationship Diagram
 
-This folder contains the ER Diagram of the SQL Server E-Commerce Database Project.
+![ER Diagram](Database%20Schema/ER_Diagram.png)
